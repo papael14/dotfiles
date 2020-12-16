@@ -1,0 +1,2 @@
+# dotfiles
+alias設定
